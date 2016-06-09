@@ -4,5 +4,5 @@ module.exports = {
     RainDetector: require("./dist/rainDetector").default,
     SoilHumid: require("./dist/soilHumid").default,
     Switcher: require("./dist/switcher").default,
-    WaterFlow: require("./dist/waterFlow").default
+    WaterFlow: require("./dist/waterFlowSensor").default
 };

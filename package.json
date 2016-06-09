@@ -1,6 +1,6 @@
 {
   "name": "artik-io-devices",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "This is part of the project [artik-io project](https://github.com/bkoper/artik-io). It contains devices that uses Artik GPIO interface.",
   "main": "index.js",
   "scripts": {

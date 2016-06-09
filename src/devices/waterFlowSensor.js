@@ -29,7 +29,7 @@ import {Gpio} from "artik-io";
 import Device from "./device";
 
 const calibrationFactor = 7.5;
-const maxSpeed = 10;
+const maxSpeed = 5;
 const watchdogThreshold = 1250;
 const getTimestamp = () => (new Date).getTime();
 
